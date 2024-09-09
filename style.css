@@ -32,3 +32,5 @@ img{
 img:hover{
     opacity: 1;
 }
+
+/* opacity value(0-1) pojont hebohar kora jai, Maximum value (1) & Minimum value (0). */
